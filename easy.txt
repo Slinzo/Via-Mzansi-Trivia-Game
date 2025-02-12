@@ -1,0 +1,20 @@
+How many colors does the South African flag have?|3|7|4|5|6
+How many provinces does South Africa have?|1|7|9|10|5
+In which year was the first multiracial and multiparty election introduced?|1|1966|1994|2010|1990
+Which tribe did Nelson Mandela belong to?|3|Zulu|Ndebele|Swati|Xhosa
+Which of the following animals is not on the South African bank notes?|2|Buffalo|Lion|Cheetah|Leopard
+Who was the first black president of South Africa?|1|Jacob Zuma|Nelson Mandela|Trevor Noah|Robert Mugabe
+Which is not a South African football team?|0|Liverpool|Kaizer Chiefs|Orlando Pirates|Mamelodi Sundowns
+Which South African pop & R&B star won the Grammy in 2024?|2|K.O|Nasty C|Tyla|Bonang
+What is the current (As of 2024) governing party in South Africa?|1|DA|ANC|EFF|Democrats
+Where in Africa is South Africa Located?|3|North|East|West|South
+South Africa is located in Asia.|1|True|False
+South Africa is also known as the rainbow nation.|0|True|False
+Malawi shares a border with South Africa.|1|True|False
+The Indian ocean is one of the oceans surrounding the country.|0|True|False
+Durban is also known as the city of gold.|1|True|False
+Soweto is the biggest township in the country.|0|True|False
+Rugby is the most popular sport in the country.|1|True|False
+The National rugby team is known as the Springboks.|0|True|False
+The National soccer team is known as the proteas.|1|True|False
+Amapiano is a genre that originates from the country.|0|True|False

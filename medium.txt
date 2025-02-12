@@ -1,0 +1,20 @@
+What is the Capital of South Africa?|3|Pretoria|Bloemfontein|Cape Town|All of the above
+How many official languages does South Africa have?|1|9|12|11|2
+Which of the following is not a popular mainstream sport|2|Cricket|Football|Hockey|Rugby
+What is the rugby sevens nickname?|1|Springboks|Blitzboks|Bigboks|Imphala
+Which major sport event has never been hosted in South Africa|3|IRB|Afcon|FIFA|Olympics
+Who composed the national anthem |1|Hugh Masikela|Enoch Sontonga|Erick Santengo|Sandile Mhlongo
+Which language is not a widely used language in the Mpumalanga Province|2|Afrikaans|Siswati|Sepedi|IsiZulu
+Which language is not a Nguni language?|0|Tsonga|isiZulu|Siswati|Ndebele
+Which city is known as the diamond capital of South Africa?|1|Johannesburg|Kimberly|Bloemfontein|Polokwane
+In which province is Mahikeng located?|0|North West|Northern Cape|Western Cape|Free State
+Six countries share a border with South Africa|0|True|False
+Atleast 35 languages are spoken in South Africa|0|True|False
+South Africa was banned from the 1964 Summer Olympics|0|True|False
+Durban is the third most Populous city in the country|0|True|False
+English is the most spoken language in the country|1|True|False
+The Kruger National Park spans across two of South Africa's 9 provinces|0|True|False
+The port of Cape Town is the largest port in South Africa|1|True|False
+Victoria falls is the biggest waterfall in South Africa|1|True|False
+Nando's started way back in 1987 in Johannesburg, South Africa.|0|True|False
+Nelson Mandela was sent to Robben Island prison twice|0|True|False

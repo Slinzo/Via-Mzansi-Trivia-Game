@@ -1,0 +1,20 @@
+Algeria is nearly twice the size of South Africa|0|True|False
+South Africa has the world's longest wine route|0|True|False
+The first Australopithecus specimen was found in South Africa.|0|True|False
+Bloukrans Bridge is the highest commercial natural bungee jump in the world|0|True|False
+South African fish migration is so huge you can see it from space|0|True|False
+South Africa is the largest producer of platinum in the world|0|True|False
+The first successful heart transplant was in a Cape Town hospital|0|True|False
+South Africa is the world's number one producer of gold|1|True|False
+South Africa has the highest number of official languages in the world|1|True|False
+The N1 runs from Cape Town and ends in Jo'burg|1|True|False
+The world's largest diamond was found in South Africa in which year|2|1932|1908|1905|1896
+Vredefort Dome is home to Earth's oldest meteor scar, where is it found?|1|Mpumalanga|Free State|Eastern Cape|Gauteng
+Where in SA is the world's biggest succulent, 'The Big Baobab' found|0|Limpopo|The Karoo|North West|Free State
+This town is the 1st in the southern hemisphere to install electric streetlights?|3|Jo'burg|Cape Town|Durban|Kimberly
+Which is not a world heritage sight in South Africa|1|Mapungubwe|Garamba|Richtersveld|Sterkfontein
+The longest underground cave sequence in the world, found in SA, are the|0|Cango caves|Driekoppies caves|Laangloep caves|Sibebe caves
+Rooibos tea is a blend of tea grown only in which province?|3|North West|Northern Cape|Free State|Western Cape
+RSA was the 1st country to fully protect the Great White shark in...|0|1991|1987|2003|1998
+South Africa shares the oldest mountain range in the world with...|2|Lesotho|Mozambique|Eswatini|Zimbabwe
+South Africa has the 2nd oldest Air Force in the world established in|1|1914|1920|1926|1918
